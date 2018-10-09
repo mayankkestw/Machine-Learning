@@ -19,3 +19,8 @@ X_train, X_test, Y_train, Y_test = train_test_split(x,y, test_size=1/3, random_s
 sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)'''
+
+#Fitting Simple Linear Regression to the Training set
+from sklearn.linear_model import LinearRegression
+regressor = LinearRegression()
+regressor.fit(X_train,Y_train)
