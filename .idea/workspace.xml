@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/data_preprocessing_template.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/data_preprocessing_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/simple_linear_regression.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/simple_linear_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,14 +61,14 @@
         <counts>
           <entry key="Multiple_Linear_Regression" value="36" />
           <entry key="Python Console" value="81" />
-          <entry key="py" value="1233" />
-          <entry key="txt" value="7" />
+          <entry key="py" value="1360" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="1350" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="1477" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -104,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="526">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
               <folding>
                 <element signature="e#47#65#0" expanded="true" />
               </folding>
@@ -370,7 +366,7 @@
         <item itemvalue="Python.Multiple_Linear_Regression" />
         <item itemvalue="Python.Multiple_Linear_Regression" />
         <item itemvalue="Python.Multiple_Linear_Regression" />
-        <item itemvalue="Python.Simple_Linear_Regression" />
+        <item itemvalue="Python.Multiple_Linear_Regression" />
       </list>
     </recent_temporary>
   </component>
@@ -400,11 +396,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5487805" visible="true" weight="0.26096824" />
-      <window_info id="Structure" order="1" sideWeight="0.4512195" side_tool="true" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5499182" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" sideWeight="0.45008183" side_tool="true" visible="true" weight="0.26096824" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -418,11 +414,11 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32980332" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
@@ -534,8 +530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="526">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding>
             <element signature="e#47#65#0" expanded="true" />
           </folding>
