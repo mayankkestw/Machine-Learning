@@ -26,7 +26,7 @@ lin_reg.fit(x,y)
 
 #Fitting Polynomial Regression to the dataset
 from sklearn.preprocessing import PolynomialFeatures
-Poly_reg = PolynomialFeatures(degree=2)
+Poly_reg = PolynomialFeatures(degree=4)
 x_poly = Poly_reg.fit_transform(x)
 lin_reg2 = LinearRegression()
 lin_reg2.fit(x_poly,y)
