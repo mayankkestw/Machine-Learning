@@ -31,3 +31,18 @@ x_poly = Poly_reg.fit_transform(x)
 lin_reg2 = LinearRegression()
 lin_reg2.fit(x_poly,y)
 
+#Visualising Linear Regression results
+plt.scatter(x,y,color='red')
+plt.plot(x,lin_reg.predict(x),color='blue')
+plt.title('Truth or Bluff(Linear Regression)')
+plt.xlabel('Position Level')
+plt.ylabel('Salary')
+plt.show()
+
+#Visualising Polynomial Regression results
+plt.scatter(x,y,color='red')
+plt.plot(x,lin_reg2.predict(Poly_reg.fit_transform(x)),color='blue')
+plt.title('Truth or Bluff(Polynomial Regression)')
+plt.xlabel('Position Level')
+plt.ylabel('Salary')
+plt.show()
