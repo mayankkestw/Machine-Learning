@@ -24,7 +24,7 @@ from sklearn.linear_model import LinearRegression
 lin_reg = LinearRegression()
 lin_reg.fit(x,y)
 
-#Fitting Polynomial Regression to the dataset
+#Fitting Polynomial Regression to the dataset.
 from sklearn.preprocessing import PolynomialFeatures
 Poly_reg = PolynomialFeatures(degree=4)
 x_poly = Poly_reg.fit_transform(x)
@@ -40,8 +40,10 @@ plt.ylabel('Salary')
 plt.show()
 
 #Visualising Polynomial Regression results
+x_grid = np.arange(min(x),max(x),0.1)
+x_grid = x_grid.reshape(len(x_grid),1)
 plt.scatter(x,y,color='red')
-plt.plot(x,lin_reg2.predict(Poly_reg.fit_transform(x)),color='blue')
+plt.plot(x_grid,lin_reg2.predict(Poly_reg.fit_transform(x_grid)),color='blue')
 plt.title('Truth or Bluff(Polynomial Regression)')
 plt.xlabel('Position Level')
 plt.ylabel('Salary')
