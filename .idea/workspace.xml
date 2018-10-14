@@ -63,14 +63,14 @@
         <counts>
           <entry key="Multiple_Linear_Regression" value="170" />
           <entry key="Python Console" value="81" />
-          <entry key="py" value="2342" />
+          <entry key="py" value="2477" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="2593" />
+          <entry key="Python" value="2728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -94,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Polynomial_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="294">
+              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-end-line="55" selection-end-column="21" />
               <folding>
                 <element signature="e#23#41#0" expanded="true" />
               </folding>
@@ -133,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="654" />
     <option name="y" value="-10" />
     <option name="width" value="720" />
@@ -391,7 +391,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.54146343" visible="true" weight="0.1482602" />
@@ -408,8 +408,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -544,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Polynomial_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="294">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-end-line="55" selection-end-column="21" />
           <folding>
             <element signature="e#23#41#0" expanded="true" />
           </folding>
