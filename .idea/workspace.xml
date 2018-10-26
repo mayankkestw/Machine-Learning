@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +47,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="AlchemyModelDependency/#Machine Learning A-Z Template Folder" value="1" />
-          <entry key="csv" value="8" />
+          <entry key="csv" value="9" />
           <entry key="js" value="1" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="28" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="8" />
+          <entry key="CSV" value="9" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="28" />
+          <entry key="Python" value="29" />
           <entry key="Scratch" value="1" />
           <entry key="UML" value="1" />
         </counts>
@@ -68,14 +66,14 @@
         <counts>
           <entry key="Multiple_Linear_Regression" value="170" />
           <entry key="Python Console" value="81" />
-          <entry key="py" value="2841" />
+          <entry key="py" value="2955" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="3092" />
+          <entry key="Python" value="3206" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -87,11 +85,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="325">
               <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Position_Salaries.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -102,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/regression_template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
+            <state relative-caret-position="348">
               <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
             </state>
           </provider>
@@ -133,6 +148,7 @@
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/Regression_Template.py" />
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py" />
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py" />
+        <option value="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py" />
       </list>
     </option>
   </component>
@@ -210,6 +226,12 @@
             <path>
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 2 - Regression" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 9 - Random Forest Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -269,11 +291,12 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 7 - Support Vector Regression (SVR)" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 3 -------------------- Part 2 - Regression --------------------" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 9 - Random Forest Regression" />
+      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 7 - Support Vector Regression (SVR)" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,7 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decision_tree">
+  <component name="RunManager" selected="Python.Random_Forest">
     <configuration name="Multiple_Linear_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,20 +356,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simple_Linear_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Random_Forest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Simple_Linear_Regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,16 +439,16 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Simple_Linear_Regression" />
       <item itemvalue="Python.Multiple_Linear_Regression" />
       <item itemvalue="Python.Polynomial_Regression" />
       <item itemvalue="Python.svr" />
       <item itemvalue="Python.decision_tree" />
+      <item itemvalue="Python.Random_Forest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Random_Forest" />
         <item itemvalue="Python.decision_tree" />
-        <item itemvalue="Python.svr" />
         <item itemvalue="Python.svr" />
         <item itemvalue="Python.svr" />
         <item itemvalue="Python.svr" />
@@ -462,6 +482,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.22541603" />
       <window_info id="Structure" order="1" sideWeight="0.17560975" side_tool="true" weight="0.2980333" />
@@ -477,19 +498,19 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.29296234" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.2913257" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.40015128" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.3540091" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.2980333" />
-      <window_info id="Structure" order="1" sideWeight="0.17560975" side_tool="true" visible="true" weight="0.2980333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.22541603" />
+      <window_info id="Structure" order="1" sideWeight="0.17560975" side_tool="true" weight="0.2980333" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -502,12 +523,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.2913257" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.37140697" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.40015128" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
@@ -666,17 +687,30 @@
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/Position_Salaries.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/regression_template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="348">
           <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py">
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="53">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
