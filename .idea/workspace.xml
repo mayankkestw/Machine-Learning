@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py" afterDir="false" />
-    </list>
+    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +53,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="AlchemyModelDependency/#Machine Learning A-Z Template Folder" value="1" />
-          <entry key="csv" value="12" />
+          <entry key="csv" value="13" />
           <entry key="js" value="1" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="36" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="12" />
+          <entry key="CSV" value="13" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="36" />
+          <entry key="Python" value="37" />
           <entry key="Scratch" value="1" />
           <entry key="UML" value="1" />
         </counts>
@@ -75,14 +73,15 @@
           <entry key="Logistic_Regression" value="24" />
           <entry key="Multiple_Linear_Regression" value="170" />
           <entry key="Python Console" value="81" />
-          <entry key="py" value="4240" />
+          <entry key="Svm" value="11" />
+          <entry key="py" value="4355" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="4515" />
+          <entry key="Python" value="4641" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -119,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
-              <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+              <caret line="60" column="10" lean-forward="true" selection-end-line="60" selection-end-column="10" />
               <folding>
                 <element signature="e#26#44#0" expanded="true" />
               </folding>
@@ -144,11 +143,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            <state relative-caret-position="49">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+              <folding>
+                <element signature="e#26#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -199,8 +210,9 @@
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py" />
-        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py" />
+        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py" />
+        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py" />
       </list>
     </option>
   </component>
@@ -296,6 +308,12 @@
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 13 -------------------- Part 3 - Classification --------------------" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
               <item name="Section 14 - Logistic Regression" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,6 +327,12 @@
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
               <item name="Section 16 - Support Vector Machine (SVM)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 17 - Kernel SVM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
@@ -367,6 +391,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 17 - Kernel SVM" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 16 - Support Vector Machine (SVM)" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 15 - K-Nearest Neighbors (K-NN)" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 9 - Random Forest Regression" />
@@ -559,9 +584,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.20877458" />
       <window_info id="Structure" order="1" sideWeight="0.17560975" side_tool="true" weight="0.2980333" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -575,13 +599,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.23240589" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.23240589" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.93603414" visible="true" weight="0.31996974" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.06396589" side_tool="true" visible="true" weight="0.31996974" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.8804878" visible="true" weight="0.48260212" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.11951219" side_tool="true" visible="true" weight="0.48260212" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
@@ -800,19 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-          <folding>
-            <element signature="e#26#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Social_Network_Ads.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
@@ -828,8 +839,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        <state relative-caret-position="49">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="60" column="10" lean-forward="true" selection-end-line="60" selection-end-column="10" />
+          <folding>
+            <element signature="e#26#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="e#26#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
