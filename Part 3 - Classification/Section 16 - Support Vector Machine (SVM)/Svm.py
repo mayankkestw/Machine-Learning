@@ -1,4 +1,4 @@
-#K-Nearest Neighbour(K-NN)
+#Support Vector Machines
 
 # Importing the libraries
 import numpy as np
@@ -21,12 +21,10 @@ sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)
 
-#Fitting the K-NN to the training set
-from sklearn.neighbors import KNeighborsClassifier
-classifier = KNeighborsClassifier(n_neighbors=5, metric='minkowski', p=2)
+#Fitting SVM to the training set
+from sklearn.svm import SVC
+classifier = SVC(kernel='linear',random_state=0)
 classifier.fit(X_train,y_train)
-
-
 
 #Predicting the test set results
 y_pred = classifier.predict(X_test)
@@ -44,7 +42,7 @@ plt.xlim(x1.min(),x1.max())
 plt.ylim(x2.min(),x2.max())
 for i,j in enumerate(np.unique(y_set)):
     plt.scatter(x_set[y_set==j,0],x_set[y_set==j,1],c=ListedColormap(('red','green'))(i),label=j)
-plt.title('K-NN(Training set)')
+plt.title('SVM(Training set)')
 plt.xlabel('Age')
 plt.ylabel('Estimated Salary')
 plt.legend()
@@ -59,7 +57,7 @@ plt.xlim(x1.min(),x1.max())
 plt.ylim(x2.min(),x2.max())
 for i,j in enumerate(np.unique(y_set)):
     plt.scatter(x_set[y_set==j,0],x_set[y_set==j,1],c=ListedColormap(('red','green'))(i),label=j)
-plt.title('K-NN(Test set)')
+plt.title('SVM(Test set)')
 plt.xlabel('Age')
 plt.ylabel('Estimated Salary')
 plt.legend()
