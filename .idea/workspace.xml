@@ -31,7 +31,7 @@
     <session id="-248637266">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.25" value="1" />
@@ -40,6 +40,7 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
@@ -51,42 +52,43 @@
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="AlchemyModelDependency/#Machine Learning A-Z Template Folder" value="1" />
-          <entry key="csv" value="14" />
+          <entry key="csv" value="15" />
           <entry key="js" value="1" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="38" />
+          <entry key="py" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="14" />
+          <entry key="CSV" value="15" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="38" />
+          <entry key="Python" value="40" />
           <entry key="Scratch" value="1" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Decision_Tree_Classification" value="4" />
           <entry key="Logistic_Regression" value="24" />
           <entry key="Multiple_Linear_Regression" value="170" />
           <entry key="Naive_bayes" value="2" />
           <entry key="Python Console" value="81" />
           <entry key="Svm" value="11" />
-          <entry key="py" value="4436" />
+          <entry key="py" value="4624" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="4724" />
+          <entry key="Python" value="4916" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -99,39 +101,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-              <folding>
-                <element signature="e#48#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="59" column="12" lean-forward="true" selection-end-line="60" selection-end-column="10" />
+            <state relative-caret-position="274">
+              <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
               <folding>
                 <element signature="e#26#44#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="61" column="15" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -148,7 +124,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267">
+            <state relative-caret-position="493">
               <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding>
                 <element signature="e#26#44#0" expanded="true" />
@@ -159,14 +135,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="158">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <element signature="e#40#58#0" expanded="true" />
               </folding>
@@ -174,9 +150,30 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <element signature="e#26#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Social_Network_Ads.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -220,6 +217,7 @@
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py" />
+        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py" />
       </list>
     </option>
   </component>
@@ -241,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -349,6 +348,12 @@
             <path>
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 19 - Decision Tree Classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 4 - Clustering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,7 +390,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,15 +407,15 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 3 -------------------- Part 2 - Regression --------------------" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 19 - Decision Tree Classification" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 18 - Naive Bayes" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 17 - Kernel SVM" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 16 - Support Vector Machine (SVM)" />
       <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 3 - Classification\Section 15 - K-Nearest Neighbors (K-NN)" />
-      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 9 - Random Forest Regression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Music\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 3 -------------------- Part 2 - Regression --------------------" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -426,7 +430,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Naive_bayes">
+  <component name="RunManager" selected="Python.Decision_Tree_Classification">
+    <configuration name="Decision_Tree_Classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning A-Z Template Folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Logistic_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -453,6 +476,9 @@
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -534,42 +560,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Machine Learning A-Z Template Folder" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.decision_tree" />
       <item itemvalue="Python.Random_Forest" />
       <item itemvalue="Python.Logistic_Regression" />
       <item itemvalue="Python.Svm" />
       <item itemvalue="Python.Naive_bayes" />
+      <item itemvalue="Python.Decision_Tree_Classification" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Decision_Tree_Classification" />
         <item itemvalue="Python.Naive_bayes" />
         <item itemvalue="Python.Svm" />
         <item itemvalue="Python.Logistic_Regression" />
         <item itemvalue="Python.Logistic_Regression" />
-        <item itemvalue="Python.Random_Forest" />
       </list>
     </recent_temporary>
   </component>
@@ -600,8 +604,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.21785174" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.22087745" />
       <window_info id="Structure" order="1" sideWeight="0.17560975" side_tool="true" weight="0.2980333" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -620,8 +625,8 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.6707317" visible="true" weight="0.43721634" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.3292683" side_tool="true" visible="true" weight="0.43721634" />
+      <window_info anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.8682927" visible="true" weight="0.38350984" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.13170731" side_tool="true" visible="true" weight="0.38350984" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
@@ -762,8 +767,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -773,26 +778,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Position_Salaries.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/Position_Salaries.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Position_Salaries.csv">
-      <provider editor-type-id="csv-text-editor" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/regression_template.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -832,8 +830,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv">
-      <provider editor-type-id="csv-text-editor" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -849,24 +847,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Social_Network_Ads.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="37" selection-start-line="2" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267">
+        <state relative-caret-position="493">
           <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="e#26#44#0" expanded="true" />
@@ -875,24 +858,60 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="37" selection-start-line="2" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#40#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="59" column="12" lean-forward="true" selection-end-line="60" selection-end-column="10" />
+        <state relative-caret-position="274">
+          <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
           <folding>
             <element signature="e#26#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py">
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="124">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
-            <element signature="e#40#58#0" expanded="true" />
+            <element signature="e#26#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
