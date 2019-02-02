@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Machine Learning A-Z Template Folder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine Learning A-Z Template Folder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/categorical_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1 - Data Preprocessing/categorical_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1 - Data Preprocessing/missing_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1 - Data Preprocessing/missing_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/Regression-Pros-Cons.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/Regression-Pros-Cons.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/Regularization.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/Regularization.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/regression_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/regression_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Salary_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Salary_Data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Simple_Linear_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Simple_Linear_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Polynomial_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Polynomial_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Position_Salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Position_Salaries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Position_Salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Position_Salaries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/Position_Salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/Position_Salaries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Position_Salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Position_Salaries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 13 -------------------- Part 3 - Classification --------------------/Classification_Template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Social_Network_Ads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/Mall_Customers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/Mall_Customers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/k_means.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/k_means.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/Mall_Customers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/Mall_Customers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/hierarchical_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/hierarchical_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Apriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Apriori.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Market_Basket_Optimisation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Market_Basket_Optimisation.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/apyori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/apyori.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="e#47#65#0" expanded="true" />
               </folding>
@@ -91,27 +44,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 6 -Natural_Language_Processing/nlp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-431">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -124,37 +63,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Market_Basket_Optimisation.csv">
+        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/Churn_Modelling.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Apriori.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="90">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/apyori.py">
+        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#88#98#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="705">
+              <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 3 -------------------- Part 2 - Regression --------------------/regression_template.py">
+        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/missing_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/categorical_data.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -207,6 +158,7 @@
         <option value="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Apriori.py" />
         <option value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/k_means.py" />
         <option value="$PROJECT_DIR$/Part 6 -Natural_Language_Processing/nlp.py" />
+        <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" />
       </list>
     </option>
   </component>
@@ -221,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,32 +184,26 @@
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 7 - Neural Networks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 18 - Naive Bayes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Part 6 -Natural_Language_Processing" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 7 - Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Artifical Neural Network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tensorflow-Learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -292,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nlp">
+  <component name="RunManager" selected="Python.ann">
     <configuration name="Apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ann" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +292,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/decision_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,6 +354,9 @@
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 6 -Natural_Language_Processing" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -423,19 +373,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.decision_tree" />
       <item itemvalue="Python.k_means" />
       <item itemvalue="Python.hierarchical_clustering" />
       <item itemvalue="Python.Apriori" />
       <item itemvalue="Python.nlp" />
+      <item itemvalue="Python.ann" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ann" />
+        <item itemvalue="Python.nlp" />
         <item itemvalue="Python.nlp" />
         <item itemvalue="Python.k_means" />
         <item itemvalue="Python.Apriori" />
-        <item itemvalue="Python.hierarchical_clustering" />
-        <item itemvalue="Python.k_means" />
       </list>
     </recent_temporary>
   </component>
@@ -456,12 +406,14 @@
       <workItem from="1548095936951" duration="47000" />
       <workItem from="1548443477336" duration="1569000" />
       <workItem from="1548490387780" duration="1304000" />
-      <workItem from="1548770342768" duration="5486000" />
+      <workItem from="1548770342768" duration="8643000" />
+      <workItem from="1549032516798" duration="4174000" />
+      <workItem from="1549106103811" duration="1422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10398000" />
+    <option name="totallyTimeSpent" value="19151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,7 +427,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.2871212" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82439023" visible="true" weight="0.2962121" />
       <window_info id="Structure" order="1" sideWeight="0.17560975" side_tool="true" weight="0.2980333" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,11 +438,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.37315875" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.37285224" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.22508591" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.34020618" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.28865978" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.34020618" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -569,7 +521,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/sklearn/cross_validation.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" />
     <entry file="uml://AlchemyModelDependency/#Machine Learning A-Z Template Folder">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -654,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="37" selection-start-line="2" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Social_Network_Ads.csv" />
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -683,13 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="37" column="143" selection-start-line="37" selection-start-column="143" selection-end-line="37" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -750,16 +687,6 @@
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 8 - Decision Tree Regression/Position_Salaries.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Market_Basket_Optimisation.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -786,6 +713,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="3266" selection-start-line="3266" selection-end-line="3266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 6 -Natural_Language_Processing/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/Churn_Modelling.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/missing_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/categorical_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/hierarchical_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -796,34 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression.py">
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-          <folding>
-            <element signature="e#47#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="3266" selection-start-line="3266" selection-end-line="3266" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 6 -Natural_Language_Processing/nlp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-431">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
