@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,31 +34,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py">
+        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="e#79#97#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="915">
+              <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py">
+        <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#55#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py">
+        <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+            <state relative-caret-position="75">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#55#73#0" expanded="true" />
               </folding>
@@ -69,16 +68,17 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/Wine.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2398" />
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            <state relative-caret-position="915">
+              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -172,10 +172,12 @@
         <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn2.py" />
         <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py" />
         <option value="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py" />
+        <option value="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="718" />
   </component>
@@ -212,6 +214,12 @@
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="Part 8 -Dimensionality_Reduction" type="462c0819:PsiDirectoryNode" />
+              <item name="LDA - Linear Discriminant Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 8 -Dimensionality_Reduction" type="462c0819:PsiDirectoryNode" />
               <item name="PCA - Principle Component Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -223,7 +231,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CodeChef" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -335,6 +343,9 @@
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -435,12 +446,13 @@
       <workItem from="1549205250855" duration="6143000" />
       <workItem from="1549305565537" duration="3395000" />
       <workItem from="1549310200858" duration="5713000" />
-      <workItem from="1549392069482" duration="3746000" />
+      <workItem from="1549392069482" duration="4669000" />
+      <workItem from="1549480422804" duration="2277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38444000" />
+    <option name="totallyTimeSpent" value="41644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,9 +465,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6340206" weight="0.7346939" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6340206" weight="0.22575757" />
       <window_info id="Structure" order="1" sideWeight="0.36597937" side_tool="true" weight="0.63265306" />
       <window_info id="Favorites" order="2" sideWeight="0.36597937" side_tool="true" weight="0.30530304" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,12 +481,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3281787" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3041237" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.23883161" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.21477664" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.59423506" weight="0.27424243" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.40576497" side_tool="true" weight="0.20151515" />
+      <window_info active="true" anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.59080964" visible="true" weight="0.5280303" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.4091904" side_tool="true" visible="true" weight="0.5280303" />
       <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
@@ -549,13 +560,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pandas/io/parsers.py" />
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -781,6 +785,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/Wine.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-2398" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -815,29 +842,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/Wine.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2398" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#55#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#55#73#0" expanded="true" />
           </folding>
