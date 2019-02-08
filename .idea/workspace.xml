@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/xgboost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            <state relative-caret-position="261">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#62#80#0" expanded="true" />
               </folding>
@@ -474,12 +472,12 @@
       <workItem from="1549480422804" duration="2936000" />
       <workItem from="1549546880970" duration="146000" />
       <workItem from="1549548746408" duration="5921000" />
-      <workItem from="1549652275016" duration="2308000" />
+      <workItem from="1549652275016" duration="3144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50678000" />
+    <option name="totallyTimeSpent" value="51514000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,7 +489,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="718" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6340206" visible="true" weight="0.22954546" />
       <window_info id="Structure" order="1" sideWeight="0.36597937" side_tool="true" weight="0.63265306" />
@@ -507,13 +505,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.37285224" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3281787" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.25601375" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.4347079" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.25601375" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.31443298" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.9118541" visible="true" weight="0.19015151" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.0881459" side_tool="true" visible="true" weight="0.19015151" />
+      <window_info anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.9191686" visible="true" weight="0.19015151" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.08083141" side_tool="true" visible="true" weight="0.19015151" />
       <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
@@ -910,8 +908,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/xgboost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="261">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#62#80#0" expanded="true" />
           </folding>
