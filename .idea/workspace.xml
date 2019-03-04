@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="" />
+    <list default="true" id="30d7ac62-7d4f-4c16-bcd6-1bd93b3d991c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,55 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/Kernel PCA/KernelPca.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/k-cross_validation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-              <folding>
-                <element signature="e#53#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/GridSearchCV.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
-              <folding>
-                <element signature="e#41#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/xgboost.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-              <folding>
-                <element signature="e#62#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="1650">
+              <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
               <folding>
                 <element signature="e#79#97#0" expanded="true" />
               </folding>
@@ -89,20 +48,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/Churn_Modelling.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks/rnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+              <folding>
+                <element signature="e#59#78#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/Social_Network_Ads.csv">
+        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks/Google_Stock_Price_Train.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="-5985">
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/Churn_Modelling.csv">
           <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="54" column="143" selection-start-line="54" selection-start-column="143" selection-end-line="54" selection-end-column="143" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -133,6 +117,30 @@
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#26#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/GridSearchCV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#41#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#55#73#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,25 +183,26 @@
         <option value="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Apriori.py" />
         <option value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/k_means.py" />
         <option value="$PROJECT_DIR$/Part 6 -Natural_Language_Processing/nlp.py" />
-        <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" />
         <option value="$PROJECT_DIR$/.gitignore.txt" />
         <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/.gitignore.txt" />
         <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/dataset/.gitignore.txt" />
         <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn2.py" />
         <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py" />
-        <option value="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py" />
         <option value="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py" />
         <option value="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/Kernel PCA/KernelPca.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py" />
         <option value="$PROJECT_DIR$/Part  9 - Model Selection/k-cross_validation.py" />
         <option value="$PROJECT_DIR$/Part  9 - Model Selection/GridSearchCV.py" />
         <option value="$PROJECT_DIR$/Part 10 - XGBoost/xgboost.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py" />
+        <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" />
+        <option value="$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks/rnn.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="673" />
     <option name="height" value="718" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -212,6 +221,17 @@
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 2 - Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 2 - Regression" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 4 - Simple Linear Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -224,7 +244,25 @@
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 17 - Kernel SVM" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 15 - K-Nearest Neighbors (K-NN)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 16 - Support Vector Machine (SVM)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 19 - Decision Tree Classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 20 - Random Forest Classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -236,6 +274,35 @@
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="Part 7 - Neural Networks" type="462c0819:PsiDirectoryNode" />
               <item name="Artifical Neural Network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 7 - Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Recurrent_Neural_Networks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 8 -Dimensionality_Reduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 8 -Dimensionality_Reduction" type="462c0819:PsiDirectoryNode" />
+              <item name="Kernel PCA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 8 -Dimensionality_Reduction" type="462c0819:PsiDirectoryNode" />
+              <item name="LDA - Linear Discriminant Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 8 -Dimensionality_Reduction" type="462c0819:PsiDirectoryNode" />
+              <item name="PCA - Principle Component Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -256,7 +323,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data_Structures_In_Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Santader-Customer-Transaction" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -297,7 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xgboost">
+  <component name="RunManager" selected="Python.rnn">
     <configuration name="KernelPca" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,7 +409,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ann" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,34 +417,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cnn2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Machine Learning A-Z Template Folder" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,10 +453,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="rnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning A-Z Template Folder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks/rnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="xgboost" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning A-Z Template Folder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 10 - XGBoost" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -428,19 +495,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cnn" />
-      <item itemvalue="Python.cnn2" />
       <item itemvalue="Python.KernelPca" />
       <item itemvalue="Python.k-cross_validation" />
       <item itemvalue="Python.xgboost" />
+      <item itemvalue="Python.ann" />
+      <item itemvalue="Python.rnn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rnn" />
+        <item itemvalue="Python.rnn" />
+        <item itemvalue="Python.rnn" />
+        <item itemvalue="Python.ann" />
         <item itemvalue="Python.xgboost" />
-        <item itemvalue="Python.k-cross_validation" />
-        <item itemvalue="Python.k-cross_validation" />
-        <item itemvalue="Python.k-cross_validation" />
-        <item itemvalue="Python.KernelPca" />
       </list>
     </recent_temporary>
   </component>
@@ -472,12 +539,25 @@
       <workItem from="1549480422804" duration="2936000" />
       <workItem from="1549546880970" duration="146000" />
       <workItem from="1549548746408" duration="5921000" />
-      <workItem from="1549652275016" duration="3144000" />
+      <workItem from="1549652275016" duration="6463000" />
+      <workItem from="1549745759944" duration="4108000" />
+      <workItem from="1550000861984" duration="1485000" />
+      <workItem from="1550268215026" duration="2670000" />
+      <workItem from="1550574031631" duration="789000" />
+      <workItem from="1550671763757" duration="6519000" />
+      <workItem from="1550758104544" duration="641000" />
+      <workItem from="1550953190847" duration="521000" />
+      <workItem from="1551123402993" duration="879000" />
+      <workItem from="1551295806587" duration="1211000" />
+      <workItem from="1551477313368" duration="1543000" />
+      <workItem from="1551625333734" duration="238000" />
+      <workItem from="1551711687275" duration="3159000" />
+      <workItem from="1551718249811" duration="5878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51514000" />
+    <option name="totallyTimeSpent" value="84474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,8 +570,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6340206" visible="true" weight="0.22954546" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6340206" weight="0.54864436" />
       <window_info id="Structure" order="1" sideWeight="0.36597937" side_tool="true" weight="0.63265306" />
       <window_info id="Favorites" order="2" sideWeight="0.36597937" side_tool="true" weight="0.30530304" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -505,13 +586,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.37285224" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3281787" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" visible="true" weight="0.25601375" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.31443298" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.25601375" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.30584192" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.9191686" visible="true" weight="0.19015151" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.08083141" side_tool="true" visible="true" weight="0.19015151" />
+      <window_info anchor="right" x="494" y="226" width="377" height="275" id="SciView" order="3" sideWeight="0.84158415" visible="true" weight="0.56742424" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" sideWeight="0.15841584" side_tool="true" visible="true" weight="0.56742424" />
       <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
@@ -584,24 +665,22 @@
       </map>
     </option>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>[[325.25]
+ [331.27]
+ [329.83]
+ ...
+ [793.7 ]
+ [783.33]
+ [782.75]]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Position_Salaries.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Position_Salaries.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/Random_Forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Social_Network_Ads.csv" />
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Social_Network_Ads.csv" />
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Social_Network_Ads.csv">
@@ -617,27 +696,6 @@
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Social_Network_Ads.csv" />
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="41" column="143" selection-start-line="41" selection-start-column="143" selection-end-line="41" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="54" column="143" selection-start-line="54" selection-start-column="143" selection-end-line="54" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="54" column="143" selection-start-line="54" selection-start-column="143" selection-end-line="54" selection-end-column="143" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -662,13 +720,6 @@
           <folding>
             <element signature="e#42#60#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Simple_Linear_Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -761,29 +812,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/dataset/.gitignore.txt" />
-    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/Churn_Modelling.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Convolutional_Neural_Networks/cnn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
           <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/Wine.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-2398" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -804,44 +836,131 @@
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/categorical_data.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py">
+    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/Kernel PCA/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Simple_Linear_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="525">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/k-cross_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="e#55#73#0" expanded="true" />
+            <element signature="e#53#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/pca.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        <state relative-caret-position="45">
+          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
           <folding>
             <element signature="e#55#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/Kernel PCA/Social_Network_Ads.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/Kernel PCA/KernelPca.py">
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Decision_Tree_Classification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="780">
+          <caret line="54" column="143" selection-start-line="54" selection-start-column="143" selection-end-line="54" selection-end-column="143" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/Social_Network_Ads.csv">
+    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/PCA - Principle Component Analysis/Wine.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-2398" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/Churn_Modelling.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/xgboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="e#62#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="143" selection-start-line="41" selection-start-column="143" selection-end-line="41" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/Kernel PCA/KernelPca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+          <folding>
+            <element signature="e#79#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/Churn_Modelling.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="54" column="143" selection-start-line="54" selection-start-column="143" selection-end-line="54" selection-end-column="143" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel_SVM.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -872,46 +991,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/GridSearchCV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+        <state relative-caret-position="720">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#41#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Artifical Neural Network/ann.py">
+    <entry file="file://$PROJECT_DIR$/Part 8 -Dimensionality_Reduction/LDA - Linear Discriminant Analysis/lda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#79#97#0" expanded="true" />
+            <element signature="e#55#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/Churn_Modelling.csv">
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks/Google_Stock_Price_Train.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-5985">
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Part  9 - Model Selection/k-cross_validation.py">
+    <entry file="file://$PROJECT_DIR$/Part 7 - Neural Networks/Recurrent_Neural_Networks/rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="117">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
           <folding>
-            <element signature="e#53#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 10 - XGBoost/xgboost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#62#80#0" expanded="true" />
+            <element signature="e#59#78#0" expanded="true" />
           </folding>
         </state>
       </provider>

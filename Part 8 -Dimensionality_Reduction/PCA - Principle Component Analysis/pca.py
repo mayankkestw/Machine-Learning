@@ -25,7 +25,7 @@ X_test = sc_X.transform(X_test)
 
 # Applying PCA
 from sklearn.decomposition import PCA
-pca = PCA(n_components=2)
+pca = PCA(n_components=None)
 X_train = pca.fit_transform(X_train)
 X_test = pca.transform(X_test)
 explained_variance = pca.explained_variance_ratio_
